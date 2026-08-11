@@ -2,7 +2,7 @@
 
 An end-to-end public-data case study comparing aging-associated transcriptional changes across mouse EDL, soleus, and tibialis anterior muscle.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Omics%20Flow%20Lab-0f766e)](https://omicsflowlab.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Omics%20Flow%20Lab-0f766e)](https://omics-flow-lab.akshatjaisw.chatgpt.site/?utm_source=github&utm_medium=portfolio&utm_campaign=consulting_launch_aug2026)
 [![Data](https://img.shields.io/badge/GEO-GSE287832-2563eb)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287832)
 
 ## Why this project matters
@@ -70,6 +70,6 @@ This is a public-data portfolio analysis, not client work. It is intended to dem
 
 I support wet-lab groups with bulk RNA-seq and single-cell analysis, reproducible workflows, biological interpretation, and manuscript-ready figures.
 
-- [Omics Flow Lab](https://omicsflowlab.netlify.app/)
+- [Omics Flow Lab](https://omics-flow-lab.akshatjaisw.chatgpt.site/?utm_source=github&utm_medium=portfolio&utm_campaign=consulting_launch_aug2026)
 - [LinkedIn](https://www.linkedin.com/in/akshat-jaiswal-i-omics-flow-lab-9234b5384/)
 - [omicsflow.lab@gmail.com](mailto:omicsflow.lab@gmail.com)
